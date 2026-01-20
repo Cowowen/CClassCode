@@ -4,7 +4,6 @@
 int main() // only int main allowed
 {
     //Code here
-    printf("Hello World");
     return 0;
 }
 // this is the structure of all C code
